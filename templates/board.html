@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/css/board.css" />
+</head>
+<body>
+    <table>
+        <tbody>
+            {% for i in rows %}
+                <tr>
+                {% for j in cols %}
+                    <td>
+                        {% if board[i][j] %}
+                            <div class="{{ board[i][j].type }} {{ board[i][j].color }} figure"></div>
+                        {% endif %}
+                    </td>
+                {% endfor %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
