@@ -14,18 +14,44 @@ tr:nth-child(even) td:nth-child(even) {
     background-size: contain;
 }
 
+.figure.♜.white {
+    background-image: url("https://pp.vk.me/c604725/v604725370/12e55/ZSQZRJy45pg.jpg");
+}
+.figure.♜.black {
+    background-image: url("https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14334319_901594903303821_178422652396896256_n.jpg?ig_cache_key=MTM0Njg4MzY5MTE1NDI4NDA4OQ%3D%3D.2");
+}
+
 .figure.♞.black {
     background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-qSZl3M8Is7lJFIuGGXdwpoS1W0p31IOV0A0QdtfO2lN2ACIZNg');
 }
-
 .figure.♞.white {
     background-image: url('http://voenhronika.ru/images/6/kon_belyj.jpg');
 }
 
-.figure.♜.white {
-    background-image: url("https://pp.vk.me/c604725/v604725370/12e55/ZSQZRJy45pg.jpg");
+.figure.♝.white {
+    background-image: url("http://msnbcmedia.msn.com/j/msnbc/Components/Slideshows/_production/twip_040415_/twip_040415_03.715;475;7;100.jpg");
+}
+.figure.♝.black {
+    background-image: url("http://hearthstone.buffed.de/res/hearthstone/cards/live/ruRU/320/39388.png");
 }
 
-.figure.♜.black {
-    background-image: url("https://pp.vk.me/c604725/v604725370/12e55/ZSQZRJy45pg.jpg");
+.figure.♛.white {
+    background-image: url("http://s.storage.akamai.coub.com/get/b35/p/coub/simple/cw_image/2031a6a33e9/84dbd6b7b38e1fb6653d6/timeline_1438669309_00005.jpg");
+}
+.figure.♛.black {
+    background-image: url("http://i6.imageban.ru/out/2013/11/07/60d393732de80b2a7d42c48648bcb5bc.jpg");
+}
+
+.figure.♚.white {
+    background-image: url("http://www.vokrug.tv/pic/news/5/a/e/1/5ae1798f0f392e54cc191f5e99db7ec1.jpeg");
+}
+.figure.♚.black {
+    background-image: url("http://stupiddope.com/wp-content/uploads/2013/03/Snoop-Dogg-197052-1-402.jpg");
+}
+
+.figure.♟.white {
+    background-image: url("http://suvcar.ru/wp-content/uploads/2013/09/Stormtrooper-650x634.jpg");
+}
+.figure.♟.black {
+    background-image: url("http://www.gta-worldmods.de/SanAndreas/Sweet%5Bgta-worldmods.de%5D.jpg");
 }
