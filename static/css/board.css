@@ -22,6 +22,10 @@ tr:nth-child(even) td:nth-child(even) {
     background-image: url('http://voenhronika.ru/images/6/kon_belyj.jpg');
 }
 
-.figure.♜ {
+.figure.♜.white {
+    background-image: url("https://pp.vk.me/c604725/v604725370/12e55/ZSQZRJy45pg.jpg");
+}
+
+.figure.♜.black {
     background-image: url("https://pp.vk.me/c604725/v604725370/12e55/ZSQZRJy45pg.jpg");
 }
